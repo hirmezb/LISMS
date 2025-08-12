@@ -1,7 +1,7 @@
 # LISMS Front End
 
 This directory contains the React user interface for the Laboratory
-Information and Sample Management System (LISMS).  The UI authenticates users via
+Inventory and Sample Management System (LISMS).  The UI authenticates users via
 Auth0 and consumes the REST API exposed by the Django back end.
 
 ## Prerequisites
