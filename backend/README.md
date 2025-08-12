@@ -1,6 +1,6 @@
 # LISMS Backend
 
-This directory contains a Django‑based REST API for the Laboratory Information and
+This directory contains a Django‑based REST API for the Laboratory Inventory and
 Sample Management System (LISMS) application.  The models and sample data mirror
 the Microsoft SQL Server schema and stored procedures supplied in the
 `LISMS Microsoft SQL Server Database.sql` file.  The API exposes each
